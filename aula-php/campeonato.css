@@ -1,0 +1,32 @@
+.lista{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.card{
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lista img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    padding-bottom: 20px;
+}
+.imagem-banner{
+    width: 100vw;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.titulo{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 25px;
+
+}
